@@ -1,0 +1,63 @@
+
+<div >
+    {% for person in site.data.members %}
+            <!-- <div class="text-center people-header"> -->
+            {% if forloop.index == 1 %}
+                <div>
+                    <hr />
+                    <h2>Pitt-CMU GSSPC Members</h2>
+                </div>
+            {% endif %}
+
+        <div class="people">
+            <div id="person">
+                <!-- Member photo -->
+                {% if person.img != "" %}
+                    <img src="{{ person.img }}" />
+                {% else %}
+                    <img src="/assets/img/people/blanks/blank.png" />
+                {% endif %}
+            </div>
+            <div>
+                <h3>{{ person.name }}, {{ person.title }}</h3>
+                {% for title in person.title %}
+                    <!-- <h4>{{ title }}</h4> -->
+                    {% endfor %}
+                    
+                    {% if person.info %}
+                    {% for i in person.info %}
+                    <b>{{ i.degree }}</b> 
+                        {% if i.date %}
+                        &mdash;
+                        {% if person.title contains "Undergraduate"
+                        or person.type contains "Undergraduate" %}
+                        Expected {{ i.date }}
+                        {% else %}
+                        {{ i.date }}<br />{{ i.school }}
+                        {% endif %}
+                        {% endif %}
+                        <br />
+                        {% endfor %}
+                        {% endif %}
+                        
+                        {% if person.phone %}
+                        <b>Phone: </b>{{ person.phone }}<br />
+                        {% endif %}
+                        
+                        {% if person.email %}
+                        <!-- <a href="mailto:{{ person.email | replace: '@', '_AT_' | replace: '.', '_DOT_' }}" -->
+                        <!-- onclick="this.href=this.href.replace(/_AT_/, '&#64;').replace(/_DOT_/, '&#46;')"> -->
+                        <!-- Email -->
+                    <!-- </a><br /> -->
+                    {% endif %}
+                    
+                    {% for link in person.links %}
+                    <a href="{{ link.url }}">{{ link.name }}</a><br />
+                    {% endfor %}
+                </div>
+                <div class="justify" id="about">
+                        {{ person.about }}
+                </div>
+            </div>
+            {% endfor %}
+</div>

@@ -1,0 +1,13 @@
+{% if include.link %}
+    <a href="{{ include.link }}">
+{% endif %}
+
+<div class="featured-posts" style="background-image:url({{ site.github.url }}{{ include.path }})">
+    {% if include.text %}
+      <h2><span>{{ include.text }}</span></h2>
+    {% endif %}
+</div>
+
+{% if include.link %}
+    </a>
+{% endif %}

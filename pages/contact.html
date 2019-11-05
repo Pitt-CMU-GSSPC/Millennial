@@ -1,0 +1,24 @@
+---
+layout: default
+title: Contact
+---
+
+<h1>If you have questions or comments, feel free to contact us!</h1>
+
+<div>
+    <form class="contact" name="input" method="POST" action="https://formspree.io/mic132@pitt.edu">
+        <h3>Name:</h3>
+        <input type="text" name="Name" placeholder="Your name" />
+
+        <h3>Email:</h3>
+        <input type="email" name="_replyto" placeholder="Your email" />
+
+        <h3>Message:</h3>
+        <textarea name="message" placeholder="Type your message here"></textarea>
+
+        <input id="send-email" type="submit" value="Send Email" />
+        <input type="hidden" name="_subject" value="WEBSITE CONTACT: Pitt-CMU GSSPC" />
+        <input type="hidden" name="_cc" value="mcowan92@gmail.com" />
+        <input type="hidden" name="_next" value="pages/about-us.html" />
+    </form>
+</div>

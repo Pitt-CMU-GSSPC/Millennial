@@ -1,0 +1,157 @@
+# Information for current members of CANELa
+# ----------------------------------------------------------------------------------
+# KEYS
+# name: full name of group member (include PhD if applicable)
+# img: path to image - format should be: /img/people/current/first_last.(png|jpg)
+# title: professional title of group member, examples include:
+#        - Postdoctoral Researcher
+#        - PhD Candidate
+#        - Graduate Researcher (has not completed their proposal)
+#        - Masters Student
+#        - Undergraduate Researcher
+#        - REU Fellow
+#        - Visiting Scholar
+# email: email address (usr@pitt.edu)
+# start: date when member joined CANELa (<Month> <Year>)
+# info*: degree information using:
+#        - degree: BS, MS, PhD, etc.
+#          school: name of school from which degree was received
+#          loc: city, (state|country) of school
+#          date: year of degree completion
+# OPTIONAL KEYS
+# links*: links to member's google scholar, personal website, etc. using:
+#        - name: text used for link
+#          url: https://<URL TO LINK
+# *can have multiple items
+# ----------------------------------------------------------------------------------
+- name: "Emily Eikey"
+  img: ""
+  title: "Title Here"
+  email: ""
+  about: "Emily Eikey grew up outside of Pittsburgh, Pennsylvania, and she received her B.S. in
+Chemistry from Allegheny College in 2016. During her undergraduate career, she conducted
+research in multiple areas. At Allegheny College, she studied the thermodynamics of RNA
+hairpins under the supervision of Professor Martin Serra. She also participated in two
+summer research experiences, one at the Pennsylvania State University studying metal-lipid
+interactions under the advisement of Professor Paul Cremer and another at Duquesne
+University using computational tools to optimize metal complexes under the direction of
+Professor Jeffrey Evanseck. After exploring many areas of chemistry, Emily decided to
+complete her graduate work in the field of nanomaterials. Currently, she is a fourth year NSF
+Graduate Research Fellow in Professor Jill Millstone’s group. Her interests lie in re-imagining
+the richness and diversity inherent in defining, controlling, and leveraging material
+composition and atom position in ternary metal chalcogenide nanoparticles and actively
+collaborates with an electron microscopist at the University of Colorado Boulder. She is the
+Millstone laboratory manager, in charge of ordering supplies, maintaining finances, and
+ensuring the safety of lab members. Emily enjoys spending time with family and friends,
+attending concerts, and taking her pup Maci for walks."
+
+- name: "Paige Moncure"
+  img: ""
+  title: "Title Here"
+  email: ""
+  about: "Paige Moncure is from Wilmington, Delaware and received her undergraduate degree from
+the University of Pittsburgh. She conducted undergraduate research in Professor Jill
+Millstone’s lab exploring size and shape control of copper chalcogenide nanoparticles. She
+decided to stay at the University of Pittsburgh for her Ph.D. and initiated a collaboration
+between Professors Jill Millstone and Jennifer Laaser. She is in her third year, and her
+current research uses the interferometric scattering microscope she built in Professor
+Laaser’s lab to study material dynamics at the nanoscale. Specifically, she is interested in
+colloidal nanoparticle nucleation kinetics and confined diffusion of nanoparticles in hydrogels.
+Paige is a volunteer at the Carnegie Science Center, helping with the various scientific
+outreach events they host. Outside of the lab, Paige enjoys participating in triathlons, hiking,
+going to operas with her boyfriend, and playing with her dogs, Molly and Hazel."
+
+- name: "Xing Yee Gan"
+  img: ""
+  title: "Title Here"
+  email: ""
+  about: "Xing Yee Gan grew up in Malaysia and came to the U.S. in 2010 where she went to
+University of Washington in Seattle for her undergraduate education. She is currently a fifth
+year Ph.D. student in Professor Jill Millstone’s group. Her current research focuses on using
+degenerately-doped semiconductor nanoparticles as a class of cost-effective, plasmonic
+alternatives for sensing applications as well as light-driven chemical reactions. Xing Yee
+currently leads a multi- departmental and university collaboration funded by the Defense
+Threat Reduction Agency, focusing on the development of multifunctional materials for
+chemical weapon sensing and decontamination. She also initiated a collaboration with a
+graduate student from the University of Minnesota when she attended a conference in Hong
+Kong as a second year, and they successfully published a joint paper in 2019. Xing Yee was
+one of the organizers and presiders for a graduate student organized symposium in the
+Analytical Chemistry division in the ACS Fall 2018 Meeting in Boston. She currently serves
+as a co-chair for the Colloidal Semiconductor Nanocrystals Gordon Research Seminar 2020
+to be held in Switzerland."
+
+- name: "Michael Cowan"
+  img: "/assets/img/people/michael_cowan.jpg"
+  title: "Marketing"
+  email: "mic132@pitt.edu"
+  about: "Michael Cowan grew up in a small town in upstate New York before completing his B.S. in
+Chemistry at Binghamton University. While there, he studied photocatalytic nanomaterials
+under the guidance of Professor Wayne Jones Jr. After graduating in 2015, Michael moved
+on to complete his M.Eng. in Chemical Engineering from the University at Buffalo where his
+research focus shifted towards the use of computational tools. Under the direction of
+Professor Edward Furlani, he collaborated with local industry to model the flow of an
+industrial clay extrusion process. The work led to employment in 2016, where Michael spent
+his time split between studying clay extrusion and co-developing a software plugin for the
+company. Michael returned to school in 2017 at the University of Pittsburgh. He is currently a
+third year Ph.D. Chemical Engineering student under the advisement of Professor Giannis
+Mpourmpakis. Leveraging a strong collaboration, he utilizes Density Functional Theory
+calculations and experimental results to develop structure-property relationships for ligand-
+protected metal nanoparticles. He served as the 2018-2019 Vice President of the Pitt
+Chemical Engineering Graduate Student Association – co-organizing volunteering and social
+events. Michael enjoys working on personal coding projects, running, and playing guitar."
+
+- name: "Eric Lopato"
+  img: ""
+  title: "Title Here"
+  email: ""
+  about: "Eric Lopato was raised in Pittsburgh, Pennsylvania and obtained a B.S. in Chemistry from
+St. John’s University in New York City. He started conducting inorganic chemistry research
+under the supervision of Professor Richard Rosso producing novel N-heterocyclic carbene
+ligands for ruthenium-based catalysts. During a summer at the Washington State University
+Laboratory for Atmospheric Research, he worked with Professor Brian Lamb on atmospheric
+chemical modeling involved in development of AIRPACT-5. Currently, he is a second year
+graduate student pursuing his Ph.D. in Chemistry at Carnegie Mellon University under the
+advisement of Professor Stefan Bernhard. His current research focuses on mass parallelized
+screening of photocatalytic systems for the generation of fuels and energy storage materials
+from abundant materials or industrial waste products. In this work, Eric has worked in
+collaborations within chemistry, chemical engineering, materials science and engineering,
+computer science, and machine learning at Carnegie Mellon University as well as with the
+Department of Chemistry at the University of Pittsburgh."
+
+- name: "Zoe Simon"
+  img: ""
+  title: "Title Here"
+  email: ""
+  about: "Zoe Simon is from Sioux Falls, South Dakota and received her undergraduate degree from
+Emory University, where she majored in Chemistry and Philosophy. During her
+undergraduate career, she conducted clinical research for Dr. William Reisman, the Chief of
+Orthopedics at Grady Hospital, Dr. Patrick Kelly, a vascular surgeon, and Dr. Nicholas
+Fletcher, a pediatric orthopedic surgeon. She then opted to pursue biomedical research and
+spent her remaining two years at Emory studying the role of anti-RNA autoantibodies in the
+progression of lupus under Dr. Ignacio Sanz. She is currently a second year Ph.D. student at
+the University of Pittsburgh under the supervision of Professor Jill Millstone, where she
+studies the role of prenucleation species in the formation of bimetallic nanoparticles. As
+someone who enjoys interdisciplinary research pursuits, she has sought opportunities to
+collaborate and is currently involved in a project with Professor Stefan Bernhard’s group at
+Carnegie Mellon University. Outside of the lab, she enjoys reading, spending time with
+friends, and hanging out with her dog, Lucy."
+
+- name: "Sydney Brooks"
+  img: ""
+  title: "Title Here"
+  email: ""
+  about: "Sydney Brooks grew up in New Mexico before going to West Virginia University (WVU) for
+her undergraduate education, receiving her B.S. in 2018. She started out as a Forensic
+Chemistry major, but after a summer of analytical chemistry research under Professor
+Suzanne Bell, she changed her major to Chemistry. During her undergraduate career she
+also conducted research at the National Institute of Standards and Technology under Dr.
+Amanda Forster. At WVU she was a co-founder of and held leadership positions in the
+Undergraduate Research Association, an organization with the goal of connecting
+undergraduate students involved in research. In the summer of 2018, she joined Professor
+Nathaniel Rosi’s lab at the University of Pittsburgh for her graduate work. She is currently in
+her second year, working on amino acid modifications for affecting the structure and
+assembly of gold nanoparticle double helices. Sydney is the head of the Pitt Phi Lambda
+Upsilon Chemistry Outreach Program, tasked with organizing visits to elementary and middle
+schools in the Pittsburgh area. During these visits, chemistry graduate students perform fun
+and educational science experiments with the students. In her spare time, Sydney enjoys
+anything outdoors: running, hiking, or just hanging out with friends."
