@@ -25,7 +25,7 @@
 # *can have multiple items
 # ----------------------------------------------------------------------------------
 - name: "Emily Eikey"
-  img: ""
+  img: "/assets/img/people/emily_eikey_scaled.jpg"
   title: "Title Here"
   email: ""
   about: "Emily Eikey grew up outside of Pittsburgh, Pennsylvania, and she received her B.S. in
@@ -62,7 +62,7 @@ outreach events they host. Outside of the lab, Paige enjoys participating in tri
 going to operas with her boyfriend, and playing with her dogs, Molly and Hazel."
 
 - name: "Xing Yee Gan"
-  img: ""
+  img: "/assets/img/people/xing_yee_gan_scaled.jpg"
   title: "Title Here"
   email: ""
   about: "Xing Yee Gan grew up in Malaysia and came to the U.S. in 2010 where she went to
@@ -81,7 +81,7 @@ as a co-chair for the Colloidal Semiconductor Nanocrystals Gordon Research Semin
 to be held in Switzerland."
 
 - name: "Michael Cowan"
-  img: "/assets/img/people/michael_cowan.jpg"
+  img: "/assets/img/people/michael_cowan_scaled.jpg"
   title: "Marketing"
   email: "mic132@pitt.edu"
   about: "Michael Cowan grew up in a small town in upstate New York before completing his B.S. in
@@ -137,7 +137,7 @@ Carnegie Mellon University. Outside of the lab, she enjoys reading, spending tim
 friends, and hanging out with her dog, Lucy."
 
 - name: "Sydney Brooks"
-  img: ""
+  img: "/assets/img/people/sydney_brooks_scaled.jpg"
   title: "Title Here"
   email: ""
   about: "Sydney Brooks grew up in New Mexico before going to West Virginia University (WVU) for
