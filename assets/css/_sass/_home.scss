@@ -28,6 +28,19 @@
   margin: 10px;
 }
 
+@media only screen and (max-width: 620px) {
+  .featured-posts {
+    height: 250px;
+    background-size: contain;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .featured-posts h2 span {
+    font: bold 18px/37px Helvetica, Sans-Serif;
+    margin-bottom: 5%;
+ }
+}
 /*
   Pagination
 */
