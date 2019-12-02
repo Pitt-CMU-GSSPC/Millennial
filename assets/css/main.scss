@@ -26,6 +26,12 @@ div.twitter {
   display: block;
 }
 
+@media only screen and (max-width: 768px) {
+  div.twitter {
+    display: none;
+  }
+}
+
 /* Members Styling */
 
 .people {
