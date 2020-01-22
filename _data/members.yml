@@ -2,7 +2,7 @@
 # ----------------------------------------------------------------------------------
 # KEYS
 # name: full name of group member (include PhD if applicable)
-# img: path to image - format should be: /img/people/current/first_last.(png|jpg)
+# img: path to image - format should be: /assets/img/people/first_last.(png|jpg)
 # title: professional title of group member, examples include:
 #        - Postdoctoral Researcher
 #        - PhD Candidate
@@ -12,21 +12,11 @@
 #        - REU Fellow
 #        - Visiting Scholar
 # email: email address (usr@pitt.edu)
-# start: date when member joined CANELa (<Month> <Year>)
-# info*: degree information using:
-#        - degree: BS, MS, PhD, etc.
-#          school: name of school from which degree was received
-#          loc: city, (state|country) of school
-#          date: year of degree completion
-# OPTIONAL KEYS
-# links*: links to member's google scholar, personal website, etc. using:
-#        - name: text used for link
-#          url: https://<URL TO LINK
-# *can have multiple items
+# about: paragraph bio of member
 # ----------------------------------------------------------------------------------
 - name: "Emily Eikey"
   img: "/assets/img/people/emily_eikey_scaled.jpg"
-  title: "Title Here"
+  title: "Committee Chair"
   email: ""
   about: "Emily Eikey grew up outside of Pittsburgh, Pennsylvania, and she received her B.S. in
 Chemistry from Allegheny College in 2016. During her undergraduate career, she conducted
@@ -47,7 +37,7 @@ attending concerts, and taking her pup Maci for walks."
 
 - name: "Paige Moncure"
   img: ""
-  title: "Title Here"
+  title: "Speaker Liaison"
   email: ""
   about: "Paige Moncure is from Wilmington, Delaware and received her undergraduate degree from
 the University of Pittsburgh. She conducted undergraduate research in Professor Jill
@@ -63,7 +53,7 @@ going to operas with her boyfriend, and playing with her dogs, Molly and Hazel."
 
 - name: "Xing Yee Gan"
   img: "/assets/img/people/xing_yee_gan_scaled.jpg"
-  title: "Title Here"
+  title: "Finance and Fundraising"
   email: ""
   about: "Xing Yee Gan grew up in Malaysia and came to the U.S. in 2010 where she went to
 University of Washington in Seattle for her undergraduate education. She is currently a fifth
@@ -102,7 +92,7 @@ events. Michael enjoys working on personal coding projects, running, and playing
 
 - name: "Eric Lopato"
   img: "/assets/img/people/eric_lopato_scaled.jpg"
-  title: "Title Here"
+  title: "Logistics"
   email: ""
   about: "Eric Lopato was raised in Pittsburgh, Pennsylvania and obtained a B.S. in Chemistry from
 St. John’s University in New York City. He started conducting inorganic chemistry research
@@ -120,7 +110,7 @@ Department of Chemistry at the University of Pittsburgh."
 
 - name: "Zoe Simon"
   img: ""
-  title: "Title Here"
+  title: "Finance and Fundraising"
   email: ""
   about: "Zoe Simon is from Sioux Falls, South Dakota and received her undergraduate degree from
 Emory University, where she majored in Chemistry and Philosophy. During her
@@ -138,7 +128,7 @@ friends, and hanging out with her dog, Lucy."
 
 - name: "Sydney Brooks"
   img: "/assets/img/people/sydney_brooks_scaled.jpg"
-  title: "Title Here"
+  title: "ACS Correspondant and Secretary"
   email: ""
   about: "Sydney Brooks grew up in New Mexico before going to West Virginia University (WVU) for
 her undergraduate education, receiving her B.S. in 2018. She started out as a Forensic
