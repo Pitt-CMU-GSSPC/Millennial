@@ -5,6 +5,9 @@
 /*
   Site variables
 */
+.center-me {
+  text-align: center;
+}
 
 .mainpage-container {
   display: inline-block;
@@ -17,17 +20,57 @@
   width: 100%;
 }
 
-div.twitter {
+.mainpage-text h1 {
+  text-align: center;
+}
+
+#logo {
+  display: block;
+  margin: auto;
+  max-width: 80%;
+  height: auto;
+}
+
+.flyer-container {
+  width: 60%;
+  text-align: center;
+}
+
+#flyer {
+  float: left;
+  margin-left: 1%;
+  margin-bottom: 1%;
+  max-width: 100%;
+  height: auto;
+}
+
+.twitter-container {
   // margin-left: 5%;
-  width: 30%;
+  width: 38%;
   float: right;
   max-height: 100%;
   min-height: 600px;
   display: block;
 }
 
+#twitter {
+  margin: auto;
+  max-width: 99%;
+}
+
 @media only screen and (max-width: 768px) {
-  div.twitter {
+  .mainpage-text h1 {
+    font-size: 4vw;
+  }
+
+  .flyer-container {
+    float: none;
+    margin: 2% auto auto auto;
+    max-width: 80%;
+    height: auto;
+  }
+
+  .twitter-container {
     display: none;
   }
 }
@@ -162,7 +205,7 @@ $code-font-family: "Source Code Pro", monospace;
 
 $brand-color: black;
 
-$container-width: 1100px;
+$container-width: 1200px;
 
 $tablet-width: 600px;
 
