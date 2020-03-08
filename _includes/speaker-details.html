@@ -1,0 +1,26 @@
+<div>
+    {% for speaker in site.data.speakers %}
+    {% if speaker.name == include.name %}
+        <div class="people">
+            <div id="person">
+                <!-- Member photo -->
+                {% if speaker.img != "" %}
+                    <img src="{{ speaker.img }}" />
+                {% else %}
+                    <img src="/assets/img/people/blanks/blank.png" />
+                {% endif %}
+                <div id="speaker-detail-title">
+                    <h2>{{ speaker.name }}</h2>
+                    <h2>{{ speaker.school }}</h2>
+                    <a href="{{speaker.website}}" ><h2>Group site</h2></a>
+                </div>
+            </div>
+            {% for b in speaker.bio %}
+                <div class="justify" id="about">
+                    {{ b }}
+                </div>
+            {% endfor %}
+        </div>
+    {% endif %}
+    {% endfor %}
+</div>

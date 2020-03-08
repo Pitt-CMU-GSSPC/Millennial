@@ -9,7 +9,7 @@ google-ID: ''
 menu:
 - {name: 'Home'}
 - {name: 'About Us', folder: 'pages', file: 'about-us.html'}
-# - {name: 'Speakers', folder: 'pages', file: 'speakers.html'}
+- {name: 'Speakers', folder: 'pages', file: 'speakers.html'}
 # - {name: 'Sponsors', folder: 'pages', file: 'sponsors.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 # - {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}

@@ -1,0 +1,12 @@
+<div class="speaker-container">
+    {% for speaker in site.data.speakers %}
+    <div class="speaker">
+        <a href="{{ site.url }}{{ speaker.detail-page }}"><img src="{{speaker.img}}"/></a>
+        <h2>{{speaker.name}}</h2>
+        <h3>{{ speaker.title }}</h3>
+        <h3>{{speaker.dept}}</h3>
+        <h3>{{speaker.school}}</h3>
+        <a href="{{ site.url }}{{ speaker.detail-page }}"><h3>More Details</h3></a>
+    </div>
+    {% endfor %}
+</div>

@@ -75,14 +75,42 @@
   }
 }
 
+/* Speaker Styling */
+
+.speaker-container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-flow: row wrap;
+  width: 100%;
+}
+
+.speaker {
+  background-color: white;
+  width: 30%;
+  min-width: 350px;
+  height: 600px;
+  text-align: center;
+}
+
+.speaker h3 {
+  margin: 0;
+}
+
+.speaker img {
+  height: 65%;
+  width: auto;
+}
+
+.speaker img:hover {
+  opacity: 0.75;
+  
+}
+
 /* Members Styling */
 
 .people {
-  // display: table;
   display: inline-block;
-  // width: 100%;
-  // table-layout: fixed;
-  // border-spacing: 10px;
   align-content: center;
   border-top: 1px solid #eee;
   padding-top: 10px;
@@ -90,15 +118,24 @@
 }
 
 .people div {
-  // display: table-cell;
   display: block;
-  // vertical-align: middle;
+  align-content: center;
 }
 
 #person {
   float: left;
   width: 28%;
   height: 100%;
+  text-align: center;
+}
+
+#speaker-detail-title {
+  margin: auto;
+  vertical-align: auto;
+  padding: 5%;
+}
+#speaker-detail-title h2 {
+  margin: 0;
 }
 
 #about {
