@@ -51,24 +51,24 @@ Paige is a volunteer at the Carnegie Science Center, helping with the various sc
 outreach events they host. Outside of the lab, Paige enjoys participating in triathlons, hiking,
 going to operas with her boyfriend, and playing with her dogs, Molly and Hazel."
 
-- name: "Xing Yee Gan"
-  img: "/assets/img/people/xing_yee_gan_scaled.jpg"
-  title: "Finance and Fundraising"
-  email: ""
-  about: "Xing Yee Gan grew up in Malaysia and came to the U.S. in 2010 where she went to
-University of Washington in Seattle for her undergraduate education. She is currently a fifth
-year Ph.D. student in Professor Jill Millstone’s group. Her current research focuses on using
-degenerately-doped semiconductor nanoparticles as a class of cost-effective, plasmonic
-alternatives for sensing applications as well as light-driven chemical reactions. Xing Yee
-currently leads a multi- departmental and university collaboration funded by the Defense
-Threat Reduction Agency, focusing on the development of multifunctional materials for
-chemical weapon sensing and decontamination. She also initiated a collaboration with a
-graduate student from the University of Minnesota when she attended a conference in Hong
-Kong as a second year, and they successfully published a joint paper in 2019. Xing Yee was
-one of the organizers and presiders for a graduate student organized symposium in the
-Analytical Chemistry division in the ACS Fall 2018 Meeting in Boston. She currently serves
-as a co-chair for the Colloidal Semiconductor Nanocrystals Gordon Research Seminar 2020
-to be held in Switzerland."
+# - name: "Xing Yee Gan"
+#   img: "/assets/img/people/xing_yee_gan_scaled.jpg"
+#   title: "Finance and Fundraising"
+#   email: ""
+#   about: "Xing Yee Gan grew up in Malaysia and came to the U.S. in 2010 where she went to
+# University of Washington in Seattle for her undergraduate education. She is currently a fifth
+# year Ph.D. student in Professor Jill Millstone’s group. Her current research focuses on using
+# degenerately-doped semiconductor nanoparticles as a class of cost-effective, plasmonic
+# alternatives for sensing applications as well as light-driven chemical reactions. Xing Yee
+# currently leads a multi- departmental and university collaboration funded by the Defense
+# Threat Reduction Agency, focusing on the development of multifunctional materials for
+# chemical weapon sensing and decontamination. She also initiated a collaboration with a
+# graduate student from the University of Minnesota when she attended a conference in Hong
+# Kong as a second year, and they successfully published a joint paper in 2019. Xing Yee was
+# one of the organizers and presiders for a graduate student organized symposium in the
+# Analytical Chemistry division in the ACS Fall 2018 Meeting in Boston. She currently serves
+# as a co-chair for the Colloidal Semiconductor Nanocrystals Gordon Research Seminar 2020
+# to be held in Switzerland."
 
 - name: "Michael Cowan"
   img: "/assets/img/people/michael_cowan_scaled.jpg"
