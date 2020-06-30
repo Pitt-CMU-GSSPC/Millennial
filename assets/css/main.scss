@@ -111,23 +111,22 @@
 .sponsor-level {
   display: flex;
   max-width: 95%;
-  max-height: 200px;
+  // max-height: 200px;
   margin: auto;
   text-align: center;
   vertical-align: middle;
-  // padding: 10%;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 75px;
+  padding-bottom: 75px;
   // border: 2px solid black;
-  font-size: xxx-large;
+  // font-size: xxx-large;
   font-weight: bold;
 }
 
 .sponsor-level p {
-  max-height: 90%;
   padding: none;
   margin: auto;
   text-decoration: underline;
+  font-size: 250%;
 }
 .sponsor-level img {
   width: 30%;
