@@ -3,3 +3,30 @@ layout: page
 title: Sponsors
 ---
 
+<h1>Thank you, sponsors, for making our symposium possible!</h1>
+<h2 class='center'>Interested in sponsoring our event? <a href="{{ site.github.url }}/pages/contact">Contact us for more information</a>!</h2>
+
+{% assign last_level = "" %}
+{% assign first_header = true %}
+
+{% for sponsor in site.data.sponsors %}
+    {% if sponsor.level != last_level %}
+        {% if first_header == false %}
+            </div>
+        {% endif %}
+        {% assign last_level = sponsor.level %}
+
+        <div class="sponsor-level">
+            <img src="/assets/img/sponsors/sponsor_symbols/{{sponsor.level}}4_y.gif" />
+            <p>{{sponsor.level}} Level</p>
+            <img src="/assets/img/sponsors/sponsor_symbols/{{sponsor.level}}4_y.gif" />
+        </div>
+
+        <div class="sponsor-container">
+    {% endif %}
+    <div class="sponsor">
+        <img src="{{sponsor.img}}"/>
+        <h2>{{sponsor.name}}</h2>
+    </div>
+    {% assign first_header = false %}
+{% endfor %}

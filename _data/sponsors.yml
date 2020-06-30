@@ -1,0 +1,19 @@
+- name: "ACS Division of Chemical Education (DivCHED)"
+  img: "/assets/img/sponsors/ched.png"
+  level: "Au"
+
+- name: "ACS Division of Colloid and Surface Chemistry (COLL)"
+  img: "/assets/img/sponsors/coll_div.png"
+  level: "Ag"
+
+- name: "ACS Division of Catalysis Science and Technology (CATL)"
+  img: "/assets/img/sponsors/catl_div.png"
+  level: "Cu"
+
+- name: "CMU Department of Chemistry"
+  img: "/assets/img/sponsors/cmu_dept_of_chem_logo.png"
+  level: "Cu"
+
+- name: "ACS Division of Physical Chemistry"
+  img: "/assets/img/sponsors/phys_div.png"
+  level: "Cu"

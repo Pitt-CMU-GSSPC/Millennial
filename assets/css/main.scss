@@ -107,6 +107,64 @@
   
 }
 
+/* Sponsors Styling */
+.sponsor-level {
+  display: flex;
+  max-width: 95%;
+  max-height: 200px;
+  margin: auto;
+  text-align: center;
+  vertical-align: middle;
+  // padding: 10%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  // border: 2px solid black;
+  font-size: xxx-large;
+  font-weight: bold;
+}
+
+.sponsor-level p {
+  max-height: 90%;
+  padding: none;
+  margin: auto;
+  text-decoration: underline;
+}
+.sponsor-level img {
+  width: 30%;
+  max-width: 150px;
+  height: auto;
+  margin: auto;
+}
+
+.sponsor-container {
+  display: flex;
+  justify-content: center;
+  align-content: space-between;
+  flex-flow: row wrap;
+  width: 100%;
+}
+
+.sponsor {
+  background-color: white;
+  min-width: 30%;
+  // min-width: 350px;
+  max-height: 350px;
+  text-align: center;
+  margin: auto;
+  padding-bottom: 5%;
+}
+
+.sponsor h2 {
+  // margin: 0;
+}
+
+.sponsor img {
+  width: 75%;
+  // max-width: 300px;
+  height: auto;
+  margin: auto;
+}
+
 /* Members Styling */
 
 .people {
