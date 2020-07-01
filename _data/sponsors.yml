@@ -3,7 +3,11 @@
   level: "Au"
 
 - name: "ACS Division of Colloid and Surface Chemistry (COLL)"
-  img: "/assets/img/sponsors/coll_div.png"
+  img: "/assets/img/sponsors/coll_div.jpg"
+  level: "Ag"
+
+- name: "ACS Division of Medicinal Chemistry (MEDI)"
+  img: "/assets/img/sponsors/medi_div.png"
   level: "Ag"
 
 - name: "ACS Division of Catalysis Science and Technology (CATL)"
