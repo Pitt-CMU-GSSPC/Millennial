@@ -1,3 +1,7 @@
+- name: "Mellon College of Science"
+  img: "/assets/img/sponsors/mellon_college_of_science.jpg"
+  level: "Pt"
+
 - name: "ACS Division of Chemical Education (DivCHED)"
   img: "/assets/img/sponsors/ched.png"
   level: "Au"
