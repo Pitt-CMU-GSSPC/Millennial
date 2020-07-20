@@ -25,8 +25,8 @@ title: Sponsors
         <div class="sponsor-container">
     {% endif %}
     <div class="sponsor">
-        <img src="{{sponsor.img}}"/>
-        <h2>{{sponsor.name}}</h2>
+        <a href="{{sponsor.url}}"><img src="{{sponsor.img}}"/></a>
+        <a href="{{sponsor.url}}"><h2>{{sponsor.name}}</h2></a>
     </div>
     {% assign first_header = false %}
 {% endfor %}

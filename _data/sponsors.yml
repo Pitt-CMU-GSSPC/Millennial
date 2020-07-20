@@ -1,27 +1,34 @@
-- name: "Mellon College of Science"
-  img: "/assets/img/sponsors/mellon_college_of_science.jpg"
-  level: "Pt"
+- name: Mellon College of Science
+  url: https://www.cmu.edu/mcs/
+  img: /assets/img/sponsors/mellon_college_of_science.jpg
+  level: Pt
 
-- name: "ACS Division of Chemical Education (DivCHED)"
-  img: "/assets/img/sponsors/ched.png"
-  level: "Au"
+- name: ACS Division of Chemical Education (DivCHED)
+  url: http://www.divched.org/
+  img: /assets/img/sponsors/ched.png
+  level: Au
 
-- name: "ACS Division of Colloid and Surface Chemistry (COLL)"
-  img: "/assets/img/sponsors/coll_div.jpg"
-  level: "Ag"
+- name: ACS Division of Colloid and Surface Chemistry (COLL)
+  url: https://www.colloidssurfaces.org/
+  img: /assets/img/sponsors/coll_div.jpg
+  level: Ag
 
-- name: "ACS Division of Medicinal Chemistry (MEDI)"
-  img: "/assets/img/sponsors/medi_div.png"
-  level: "Ag"
+- name: ACS Division of Medicinal Chemistry (MEDI)
+  url: https://www.acsmedchem.org/
+  img: /assets/img/sponsors/medi_div.png
+  level: Ag
 
-- name: "ACS Division of Catalysis Science and Technology (CATL)"
-  img: "/assets/img/sponsors/catl_div.png"
-  level: "Cu"
+- name: ACS Division of Catalysis Science and Technology (CATL)
+  url: https://www.acs-catalysis.org/
+  img: /assets/img/sponsors/catl_div.png
+  level: Cu
 
-- name: "CMU Department of Chemistry"
-  img: "/assets/img/sponsors/cmu_chemistry.png"
-  level: "Cu"
+- name: CMU Department of Chemistry
+  url: https://www.cmu.edu/chemistry/
+  img: /assets/img/sponsors/cmu_chemistry.png
+  level: Cu
 
-- name: "ACS Division of Physical Chemistry"
-  img: "/assets/img/sponsors/phys_div.png"
-  level: "Cu"
+- name: ACS Division of Physical Chemistry
+  url: http://phys-acs.org/
+  img: /assets/img/sponsors/phys_div.png
+  level: Cu
