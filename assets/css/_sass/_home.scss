@@ -28,6 +28,10 @@
   margin: 10px;
 }
 
+.featured-posts:hover{
+  opacity: 0.9;
+}
+
 @media only screen and (max-width: 620px) {
   .featured-posts {
     height: 250px;

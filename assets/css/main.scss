@@ -44,6 +44,10 @@
   height: auto;
 }
 
+#flyer:hover{
+  opacity: 0.75;
+}
+
 .twitter-container {
   // margin-left: 5%;
   width: 38%;
@@ -156,6 +160,10 @@
   // max-width: 300px;
   height: auto;
   margin: auto;
+}
+
+.sponsor img:hover {
+  opacity: 0.75;
 }
 
 /* Members Styling */
