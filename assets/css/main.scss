@@ -293,6 +293,30 @@
   min-height: 50px;
 }
 
+// ngsspc and travel grant pages
+.application-img-container {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.application-img {
+  flex: 50%;
+  width: 50%;
+}
+
+.application-img img {
+  max-height: 300px;
+  height: 30vw;
+  width: auto;
+  margin: auto;
+}
+
+.small-text {
+  font-size: small;
+}
+
 $base-font-family: 'Roboto', sans-serif;
 
 $body-font-family: 'Roboto', sans-serif;
