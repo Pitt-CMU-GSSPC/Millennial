@@ -12,7 +12,7 @@ menu:
 - {name: 'Speakers', path: '/pages/speakers.html'}
 - {name: 'Sponsors', path: '/pages/sponsors.html'}
 - {name: 'nGSSPC', path: '/pages/ngsspc.html'}
-- {name: 'Travel Grants', path: '/pages/travel-grants.html'}
+# - {name: 'Travel Grants', path: '/pages/travel-grants.html'}
 # - {name: 'Contact', path: '/pages/contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
