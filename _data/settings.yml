@@ -11,7 +11,7 @@ menu:
 - {name: 'About Us', path: '/pages/about-us.html'}
 - {name: 'Speakers', path: '/pages/speakers.html'}
 - {name: 'Sponsors', path: '/pages/sponsors.html'}
-- {name: 'nGSSPC', path: '/pages/ngsspc.html'}
+# - {name: 'nGSSPC', path: '/pages/ngsspc.html'}
 # - {name: 'Travel Grants', path: '/pages/travel-grants.html'}
 # - {name: 'Contact', path: '/pages/contact.html'}
 
