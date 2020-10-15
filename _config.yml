@@ -13,6 +13,11 @@ sass:
   sass_dir: assets/css
   style: :nested
 
+# add info for twitter cards
+twitter:
+  username: Pitt_CMU_GSSPC
+  card: summary
+
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Pitt-CMU GSSPC"
 description:	       "2019-2020"
