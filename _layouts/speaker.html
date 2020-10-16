@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+  <head>
+      <!-- Find speaker data -->
+      {% for x in site.data.speakers %}
+          {% if x.name == page.speaker %}
+              {% assign speaker=x %}
+              {% break %}
+          {% endif %}
+      {% endfor %}
+
+      <title>{{page.speaker}} | {{ site.title }}</title>
+      
+      <meta name="viewport" content="width=device-width, initial-scale=1"/>
+      <meta charset="utf-8"/>
+
+      <!-- Add meta data -->
+      <meta property="og:title" content="{{ page.speaker }}"/>
+      <meta property="og:description" content="{{ site.title }}"/>
+      <meta property="og:site_name" content="{{ site.title }}"/>
+      <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
+      <meta name="og:image" content="{{site.url}}{{ speaker.img }}"/>
+      <meta name="twitter:card" content="summary"/>
+
+      <link rel="stylesheet" href="{{ site.github.url }}/assets/css/main.css"/>
+      <link rel="stylesheet" href="{{ site.github.url }}/assets/css/syntax.css"/>
+      <link rel="SHORTCUT ICON" href="/assets/img/logo.png" />
+      <!-- Use Atom -->
+      {% feed_meta %}
+      <!-- RSS-v2.0
+      <link href="{{ site.github.url }}/rss-feed.xml" type="application/rss+xml" rel="alternate" title="{{ site.title }} | {{ site.description }}"/>
+      //-->
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Source+Code+Pro">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+      
+      <script type="text/javascript" async
+          src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+      </script>
+      
+      <!-- Google Analytics -->
+      {% include google-analytics.html %}
+    </head>
+
+    <body>
+      <div class="container">
+        {% include header.html %}
+        <div class="posts-wrapper">
+          <div class="page-title">
+            <h1>{{ page.title }}</h1>
+          </div>
+
+          <article>
+            <div>
+              <div class="people">
+                <div id="person">
+                  <!-- Member photo -->
+                  {% if speaker.img != "" %}
+                    <img src="{{ speaker.img }}" />
+                  {% else %}
+                    <img src="/assets/img/people/blanks/blank.png" />
+                  {% endif %}
+                  <div id="speaker-detail-title">
+                    <h2 id="speaker-name">{{ speaker.name }}</h2>
+                    <h2>{{ speaker.school }}</h2>
+                    <a href="{{speaker.website}}" ><h2>Group site</h2></a>
+                  </div>
+                </div>
+                {% for b in speaker.bio %}
+                  <div class="justify" id="about">{{ b }}</div>
+                {% endfor %}
+              </div>
+            </div>
+          </article>
+          <hr />
+          {% include footer.html %}
+        </div>
+      </div>
+    </body>
+</html>
