@@ -19,9 +19,9 @@ twitter:
   card: summary
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Pitt-CMU GSSPC"
-description:	       "2019-2020"
-author:              "Michael Cowan"
+title: "Pitt-CMU GSSPC"
+description: "2020-2021"
+author: "Michael Cowan"
 
 
 # image paths
