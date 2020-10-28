@@ -6,22 +6,21 @@ title: Home
 
 <div class="mainpage-container">
   <div class="mainpage-text">
-    <!-- <img id="logo" src="assets/img/logo.jpg" /> -->
     <h1>Welcome to the Pitt-CMU GSSPC Website!</h1>
     <!-- Add group photo to top of home page -->
     
     {% include wide-photo.html path=site.group text="Meet the Team!" link="pages/about-us.html" %}
     
     <!-- main text goes here -->
-    <div class="flyer-container">
-      <h1>Learn about the Symposium!</h1>
-      <a href="{{ site.url }}/pages/speakers.html"><img id="flyer" src="assets/img/Pitt-CMU-GSSPC_flyer.jpg" /></a>
-    </div>
-
-    <div class="twitter-container">
-      <div id="twitter">
-        <!-- Add out twitter feed -->
-        <a class="twitter-timeline" href="https://twitter.com/Pitt_CMU_GSSPC?ref_src=twsrc%5Etfw">Tweets by Pitt-CMU GSSPC</a>
+    <div class="flex">
+      <div class="flyer-container">
+        <h1>Learn about the Symposium!</h1>
+        <a href="{{ site.url }}/pages/speakers.html"><img id="flyer" src="assets/img/Pitt-CMU-GSSPC_flyer.jpg" /></a>
+      </div>
+      <div class="twitter-container">
+        <!-- Add our twitter feed -->
+        <img id="homepage-logo" src="{{ site.github.url }}/assets/img/logo.jpg" />
+        <a class="twitter-timeline" data-height="84%" data-width="100%" data-dnt="true" href="https://twitter.com/Pitt_CMU_GSSPC?ref_src=twsrc%5Etfw">Tweets by Pitt-CMU GSSPC</a>
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       </div>
     </div>
