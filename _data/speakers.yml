@@ -1,6 +1,87 @@
+# MORNING SESSION
+- name: Brenda Rubenstein
+  img: /assets/img/speakers/brenda_rubenstein_.jpg
+  prof-title: Assistant Professor
+  dept: Dept. of Chemistry
+  school: Brown University
+  detail-page: /pages/brenda-rubenstein.html
+  website: https://www.brown.edu/research/labs/rubenstein/home
+  bio: <b>Dr. Brenda Rubenstein</b> is currently the Joukowsky Family Assistant Professor of Chemistry at Brown University. While the focus of her work is on developing new electronic structure methods, she is also deeply engaged in rethinking computing architectures and computational biophysics. In honor of her research, teaching, and mentoring, she has received an Alfred P. Sloan Fellowship, a Cottrell Teacher-Scholar Award, an Air Force Young Investigator Award, and a Brown University Diversity and Inclusion Action Plan Award. Prior to arriving at Brown, she was a Lawrence Distinguished Postdoctoral Fellow at Lawrence Livermore National Laboratory. She received her Sc.B.s in Chemical Physics and Applied Mathematics at Brown University, her M.Phil. in Computational Chemistry while a Churchill Scholar at the University of Cambridge, and her Ph.D. in Chemical Physics at Columbia University. Ask her about basketball - you may be suprised!
+  talk-title: Building predictive simulations of materials through collaboration
+  talk-time: 09:04am
+
+- name: Eranda Nikolla
+  img: /assets/img/speakers/eranda_nikolla.jpg
+  prof-title: Professor
+  dept: Dept. of Chemical Engineering and Materials Science
+  school: Wayne State University
+  detail-page:
+  website: http://nikollalab.eng.wayne.edu
+  bio:
+  talk-title: Controlling discharge product distribution in Li-oxygen cathodes through electrode surface discharge mechanism
+  talk-time: 09:46am
+
+- name: Toby L. Nelson
+  img: /assets/img/speakers/toby_nelson.jpg
+  prof-title: Associate Professor
+  dept: Dept. of Chemistry
+  school: Oklahoma State University
+  detail-page: /pages/toby-nelson.html
+  website: https://nelsonlab.okstate.edu/
+  bio: "<b>Toby L. Nelson</b> is Associate Professor of Chemistry in the Department of Chemistry at Oklahoma State University where his research focuses on design and synthesis of organic semiconductors, sensors, bioinspired materials and green chemistry. He holds a B.S. in Chemistry from Francis Marion University and Ph.D. in Organic Chemistry from University of South Carolina. Dr. Nelson was also a UNCF-Merck Postdoctoral Fellow in organic materials at Carnegie Mellon University under advisement of Professor Richard D. McCullough (now Vice Provost for Research at Harvard University)."
+  talk-title: Eumalenin-inpsired organic semiconductors
+  talk-time: 10:36am
+
+- name: Teri W. Odom
+  img: /assets/img/speakers/teri_odom.jpg
+  prof-title: Chair and Professor
+  dept: Dept. of Chemistry
+  school: Northwestern University
+  detail-page: /pages/teri-odom.html
+  website: https://www.odomgroup.northwestern.edu/
+  bio:
+    - <b>Teri W. Odom</b> is Charles E. and Emma H. Morrison Professor of Chemistry and Chair of the Chemistry Department at Northwestern University. She is an expert in designing structured nanoscale materials that exhibit extraordinary size and shape-dependent optical properties. Odom has pioneered a suite of multi-scale nanofabrication tools that have resulted in plasmon-based nanoscale lasers that exhibit tunable color, flat optics that can manipulate light at the nanoscale and beat the diffraction limit, and hierarchical substrates that show controlled wetting and super-hydrophobicity. She has also invented a class of biological nanoconstructs that are facilitating unique insight into nanoparticle-cell interactions and that show superior imaging and therapeutic properties because of their gold nanostar shape.
+    - Odom is a Fellow of the Materials Research Society (MRS), the American Chemical Society (ACS), the American Physical Society (APS), the Optical Society of America (OSA), the Royal Society of Chemistry (RSC), and is an OSA Senior Member. She has received numerous other honors and awards, including the ACS National Award in Surface Science; a Research Corporation TREE Award; a U.S. Department of Defense Vannevar Bush Faculty Fellowship; the Associated Student Government Faculty Honor Roll; the Carol Tyler Award from the International Precious Metals Institute; a Blavatnik Young Scientist Finalist in Chemistry and Physical Sciences and Engineering; a Radcliffe Institute for Advanced Study Fellowship at Harvard University; the ACS Akron Section Award; an National Institutes of Health (NIH) Director's Pioneer Award; the MRS Outstanding Young Investigator Award; the National Fresenius Award from Phi Lambda Upsilon and the ACS; the Rohm and Haas New Faculty Award; an Alfred P. Sloan Research Fellowship; a DuPont Young Investigator Grant; a NSF CAREER Award; the ExxonMobil Solid State Chemistry Faculty Fellowship; and a David and Lucile Packard Fellowship in Science and Engineering. Odom was founding Chair of the Noble Metal Nanoparticles Gordon Research Conference (2010) and founding Vice-Chair of Lasers in Micro, Nano, Bio Systems (2018). She is on the Editorial Advisory Boards of ACS Nano, Materials Horizons, ChemNanoMat, and Bioconjugate Chemistry. She was founding Associate Editor for Chemical Science (2009-2013), founding Executive Editor of ACS Photonics (2013 - 2019), and is currently Editor-in-Chief of Nano Letters. Odom’s <a href='http://axial.acs.org/2018/02/26/teri-odom-discovery/'>Personal Story of Discovery</a> was featured by ACS Publications.
+  talk-title: Light-matter coupling of plasmonic lattices and solid-state emitters
+  talk-time: 11:18am
+
+# AFTERNOON SESSION
+- name: Krzysztof Matyjaszewski
+  img: /assets/img/speakers/krzysztof_matyjaszewski.jpg
+  prof-title: Professor
+  dept: Dept. of Chemistry
+  school: Carnegie Mellon University
+  detail-page: /pages/krzysztof-matyjaszewski.html
+  website: https://www.cmu.edu/maty/
+  bio: "<b>Krzysztof (Kris) Matyjaszewski</b> received his Ph.D. In Polish Academy of Sciences in 1976. Since 1985 he is J.C. Warner University Professor of Natural Sciences at Carnegie Mellon University. In 1994 he discovered Cu-mediated atom transfer radical polymerization, commercialized in 2004 in US, Japan and Europe to prepare various advanced materials. His research is focused on synthesis of well-defined macromolecules and hybrid materials via living and controlled polymerizations using radical, and ionic mechanisms to prepare advanced materials for optoelectronic, biomedical, environmental and energy-related applications. He has co-authored >1,000 publications, co-edited >20 books, and holds 62 US patents. He is the editor of Progress in Polymer Science. He is a member of National Academy of Engineering, National Academy of Sciences and National Academy of Inventors as well as Australian, Polish and Russian academies of Sciences. He received 2017 Franklin Medal in Chemistry, 2015 Dreyfus Prize in Chemical Sciences, 2011 Wolf Prize in Chemistry, 2009 Presidential Green Chemistry Challenge Award, ACS Awards in: Chemistry of Materials (2019), Applied Polymer Science (2011) and Polymer Chemistry (2002) as well as eleven honorary degrees."
+  talk-title: Creating new advanced materials by ATRP via interdisciplinary collaborative research
+  talk-time: 01:02pm
+
+- name: Omar K. Farha
+  img: /assets/img/speakers/omar_farha.jpg
+  prof-title: Associate Professor
+  dept: Dept. of Chemistry
+  school: Northwestern University
+  detail-page: /pages/omar-farha.html
+  website: https://sites.northwestern.edu/omarkfarha/
+  bio: "<b>Omar K. Farha</b> is an associate professor of chemistry at Northwestern University, president of NuMat Technologies, and Associate Editor for ACS Applied Materials & Interfaces. His current research spans diverse areas of chemistry and materials science ranging from energy to defense related challenges.  Specifically, his research focuses on the rational design of metal–organic frameworks (MOFs) for applications sensing, catalysis, storage, separations and water purification. His research accomplishments have been recognized by several awards and honors including Kuwait Prize, Japanese Society of Coordination Chemistry “International award for creative work”; the Royal Society of Chemistry “Environment, Sustainability and Energy Division Early Career” Award; the American Chemical society “The Satinder Ahuja Award for Young Investigators in Separation Science; and an award established by the Department of Chemistry at Northwestern University in his honor: the Omar Farha Award for Research Leadership “awarded for stewardship, cooperation and leadership in the finest pursuit of research in chemistry” and given annually to an outstanding research scientist working in the department. Prof. Farha has more than 430 peer-reviewed publications, holds 16 patents,  47,000 citation and h-index of 107 (google Scholar), and has been named a “Highly Cited Researcher” in 2014 to 2019. Omar is the co-founder of NuMat Technologies, the first company to commercialized an engineered system level product enabled by Metal-Organic Framework Materials."
+  talk-title: Smart and programmable sponges for protection
+  talk-time: 01:44pm
+
+- name: Jeffrey R. Long
+  img: /assets/img/speakers/jeffrey_long.jpg
+  prof-title: Professor
+  dept: Dept. of Chemistry
+  school: University of California, Berkeley
+  detail-page: /pages/jeffrey-long.html
+  website: http://alchemy.cchem.berkeley.edu/home/
+  bio: "<b>Jeffrey R. Long</b> is a Professor of Chemistry and Chemical & Biomolecular Engineering at the University of California, Berkeley and a Faculty Senior Scientist in the Materials Sciences Division at Lawrence Berkeley National Laboratory.  He served as Chair of the Division of Inorganic Chemistry of the American Chemical Society in 2012 and as a founding Associate Editor of the journal <i>Chemical Science</i>, and he is presently Director of the Center for Gas Separations, an Energy Frontier Research Center funded by the Department of Energy.  He co-founded and directs two companies: Mosaic Materials, which is developing metal-organic frameworks for low-energy gas separations, and Flux Technology, which is producing high-performance polymer membranes for gas purification.  His 330 publications have received more than 67,000 citations, and his recent awards include election to the American Academy of Arts and Sciences and the 2019 American Chemical Society F. Albert Cotton Award in Synthetic Inorganic Chemistry."
+  talk-title: Cooperative adsorption in metal-organic frameworks
+  talk-time: 02:34pm
+
 - name: Zhenan Bao
   img: /assets/img/speakers/zhenan_bao.jpg
-  title: Chair and Professor
+  prof-title: Chair and Professor
   dept: Dept. of Chemical Engineering
   school: Stanford University
   detail-page: /pages/zhenan-bao.html
@@ -11,68 +92,5 @@
     - Bao is a member of the National Academy of Engineering and the National Academy of Inventors. She is a Fellow of MRS, ACS, AAAS, SPIE, ACS PMSE and ACS POLY.
     - Bao was selected as Nature's Ten people who mattered in 2015 as a "Master of Materials" for her work on artificial electronic skin. She was awarded the Gibbs Medal by the Chicago session of ACS in 2020, University of Chicago Alumni Award by the Department of Chemistry in 2020, the Wilhelm Exner Medal by Austrian Federal Minister of Science 2018, ACS Award on Applied Polymer Science 2017, the L'Oréal-UNESCO For Women in Science Award in the Physical Sciences 2017, the AICHE Andreas Acrivos Award for Professional Progress in Chemical Engineering in 2014, ACS Carl Marvel Creative Polymer Chemistry Award in 2013, ACS Cope Scholar Award in 2011, the Royal Society of Chemistry Beilby Medal and Prize in 2009, the IUPAC Creativity in Applied Polymer Science Prize in 2008.
     - Bao is a co-founder and on the Board of Directors for C3 Nano and PyrAmes, both are silicon-valley venture funded start-ups. She serves as an advising Partner for Fusion Venture Capital.
-
-- name: Omar K. Farha
-  img: /assets/img/speakers/omar_farha.jpg
-  title: Associate Professor
-  dept: Dept. of Chemistry
-  school: Northwestern University
-  detail-page: /pages/omar-farha.html
-  website: https://sites.northwestern.edu/omarkfarha/
-  bio: "<b>Omar K. Farha</b> is an associate professor of chemistry at Northwestern University, president of NuMat Technologies, and Associate Editor for ACS Applied Materials & Interfaces. His current research spans diverse areas of chemistry and materials science ranging from energy to defense related challenges.  Specifically, his research focuses on the rational design of metal–organic frameworks (MOFs) for applications sensing, catalysis, storage, separations and water purification. His research accomplishments have been recognized by several awards and honors including Kuwait Prize, Japanese Society of Coordination Chemistry “International award for creative work”; the Royal Society of Chemistry “Environment, Sustainability and Energy Division Early Career” Award; the American Chemical society “The Satinder Ahuja Award for Young Investigators in Separation Science; and an award established by the Department of Chemistry at Northwestern University in his honor: the Omar Farha Award for Research Leadership “awarded for stewardship, cooperation and leadership in the finest pursuit of research in chemistry” and given annually to an outstanding research scientist working in the department. Prof. Farha has more than 430 peer-reviewed publications, holds 16 patents,  47,000 citation and h-index of 107 (google Scholar), and has been named a “Highly Cited Researcher” in 2014 to 2019. Omar is the co-founder of NuMat Technologies, the first company to commercialized an engineered system level product enabled by Metal-Organic Framework Materials."
-
-- name: Jeffrey R. Long
-  img: /assets/img/speakers/jeffrey_long.jpg
-  title: Professor
-  dept: Dept. of Chemistry
-  school: University of California, Berkeley
-  detail-page: /pages/jeffrey-long.html
-  website: http://alchemy.cchem.berkeley.edu/home/
-  bio: "<b>Jeffrey R. Long</b> is a Professor of Chemistry and Chemical & Biomolecular Engineering at the University of California, Berkeley and a Faculty Senior Scientist in the Materials Sciences Division at Lawrence Berkeley National Laboratory.  He served as Chair of the Division of Inorganic Chemistry of the American Chemical Society in 2012 and as a founding Associate Editor of the journal <i>Chemical Science</i>, and he is presently Director of the Center for Gas Separations, an Energy Frontier Research Center funded by the Department of Energy.  He co-founded and directs two companies: Mosaic Materials, which is developing metal-organic frameworks for low-energy gas separations, and Flux Technology, which is producing high-performance polymer membranes for gas purification.  His 330 publications have received more than 67,000 citations, and his recent awards include election to the American Academy of Arts and Sciences and the 2019 American Chemical Society F. Albert Cotton Award in Synthetic Inorganic Chemistry."
-
-- name: Krzysztof Matyjaszewski
-  img: /assets/img/speakers/krzysztof_matyjaszewski.jpg
-  title: Professor
-  dept: Dept. of Chemistry
-  school: Carnegie Mellon University
-  detail-page: /pages/krzysztof-matyjaszewski.html
-  website: https://www.cmu.edu/maty/
-  bio: "<b>Krzysztof (Kris) Matyjaszewski</b> received his Ph.D. In Polish Academy of Sciences in 1976. Since 1985 he is J.C. Warner University Professor of Natural Sciences at Carnegie Mellon University. In 1994 he discovered Cu-mediated atom transfer radical polymerization, commercialized in 2004 in US, Japan and Europe to prepare various advanced materials. His research is focused on synthesis of well-defined macromolecules and hybrid materials via living and controlled polymerizations using radical, and ionic mechanisms to prepare advanced materials for optoelectronic, biomedical, environmental and energy-related applications. He has co-authored >1,000 publications, co-edited >20 books, and holds 62 US patents. He is the editor of Progress in Polymer Science. He is a member of National Academy of Engineering, National Academy of Sciences and National Academy of Inventors as well as Australian, Polish and Russian academies of Sciences. He received 2017 Franklin Medal in Chemistry, 2015 Dreyfus Prize in Chemical Sciences, 2011 Wolf Prize in Chemistry, 2009 Presidential Green Chemistry Challenge Award, ACS Awards in: Chemistry of Materials (2019), Applied Polymer Science (2011) and Polymer Chemistry (2002) as well as eleven honorary degrees."
-  
-- name: Toby L. Nelson
-  img: /assets/img/speakers/toby_nelson.jpg
-  title: Associate Professor
-  dept: Dept. of Chemistry
-  school: Oklahoma State University
-  detail-page: /pages/toby-nelson.html
-  website: https://nelsonlab.okstate.edu/
-  bio: "<b>Toby L. Nelson</b> is Associate Professor of Chemistry in the Department of Chemistry at Oklahoma State University where his research focuses on design and synthesis of organic semiconductors, sensors, bioinspired materials and green chemistry. He holds a B.S. in Chemistry from Francis Marion University and Ph.D. in Organic Chemistry from University of South Carolina. Dr. Nelson was also a UNCF-Merck Postdoctoral Fellow in organic materials at Carnegie Mellon University under advisement of Professor Richard D. McCullough (now Vice Provost for Research at Harvard University)."
-
-- name: Eranda Nikolla
-  img: /assets/img/speakers/eranda_nikolla.jpg
-  title: Professor
-  dept: Dept. of Chemical Engineering and Materials Science
-  school: Wayne State University
-  detail-page:
-  website: http://nikollalab.eng.wayne.edu
-  bio:
-
-- name: Teri W. Odom
-  img: /assets/img/speakers/teri_odom.jpg
-  title: Chair and Professor
-  dept: Dept. of Chemistry
-  school: Northwestern University
-  detail-page: /pages/teri-odom.html
-  website: https://www.odomgroup.northwestern.edu/
-  bio:
-    - <b>Teri W. Odom</b> is Charles E. and Emma H. Morrison Professor of Chemistry and Chair of the Chemistry Department at Northwestern University. She is an expert in designing structured nanoscale materials that exhibit extraordinary size and shape-dependent optical properties. Odom has pioneered a suite of multi-scale nanofabrication tools that have resulted in plasmon-based nanoscale lasers that exhibit tunable color, flat optics that can manipulate light at the nanoscale and beat the diffraction limit, and hierarchical substrates that show controlled wetting and super-hydrophobicity. She has also invented a class of biological nanoconstructs that are facilitating unique insight into nanoparticle-cell interactions and that show superior imaging and therapeutic properties because of their gold nanostar shape.
-    - Odom is a Fellow of the Materials Research Society (MRS), the American Chemical Society (ACS), the American Physical Society (APS), the Optical Society of America (OSA), the Royal Society of Chemistry (RSC), and is an OSA Senior Member. She has received numerous other honors and awards, including the ACS National Award in Surface Science; a Research Corporation TREE Award; a U.S. Department of Defense Vannevar Bush Faculty Fellowship; the Associated Student Government Faculty Honor Roll; the Carol Tyler Award from the International Precious Metals Institute; a Blavatnik Young Scientist Finalist in Chemistry and Physical Sciences and Engineering; a Radcliffe Institute for Advanced Study Fellowship at Harvard University; the ACS Akron Section Award; an National Institutes of Health (NIH) Director's Pioneer Award; the MRS Outstanding Young Investigator Award; the National Fresenius Award from Phi Lambda Upsilon and the ACS; the Rohm and Haas New Faculty Award; an Alfred P. Sloan Research Fellowship; a DuPont Young Investigator Grant; a NSF CAREER Award; the ExxonMobil Solid State Chemistry Faculty Fellowship; and a David and Lucile Packard Fellowship in Science and Engineering. Odom was founding Chair of the Noble Metal Nanoparticles Gordon Research Conference (2010) and founding Vice-Chair of Lasers in Micro, Nano, Bio Systems (2018). She is on the Editorial Advisory Boards of ACS Nano, Materials Horizons, ChemNanoMat, and Bioconjugate Chemistry. She was founding Associate Editor for Chemical Science (2009-2013), founding Executive Editor of ACS Photonics (2013 - 2019), and is currently Editor-in-Chief of Nano Letters. Odom’s <a href='http://axial.acs.org/2018/02/26/teri-odom-discovery/'>Personal Story of Discovery</a> was featured by ACS Publications.
-
-- name: Brenda Rubenstein
-  img: /assets/img/speakers/brenda_rubenstein_.jpg
-  title: Assistant Professor
-  dept: Dept. of Chemistry
-  school: Brown University
-  detail-page: /pages/brenda-rubenstein.html
-  website: https://www.brown.edu/research/labs/rubenstein/home
-  bio: <b>Dr. Brenda Rubenstein</b> is currently the Joukowsky Family Assistant Professor of Chemistry at Brown University. While the focus of her work is on developing new electronic structure methods, she is also deeply engaged in rethinking computing architectures and computational biophysics. In honor of her research, teaching, and mentoring, she has received an Alfred P. Sloan Fellowship, a Cottrell Teacher-Scholar Award, an Air Force Young Investigator Award, and a Brown University Diversity and Inclusion Action Plan Award. Prior to arriving at Brown, she was a Lawrence Distinguished Postdoctoral Fellow at Lawrence Livermore National Laboratory. She received her Sc.B.s in Chemical Physics and Applied Mathematics at Brown University, her M.Phil. in Computational Chemistry while a Churchill Scholar at the University of Cambridge, and her Ph.D. in Chemical Physics at Columbia University. Ask her about basketball - you may be suprised!
+  talk-title: "Polymers with dynamic crosslinks: From electronic skin, morphing electronics to stable lithium metal batteries"
+  talk-time: 03:16pm
