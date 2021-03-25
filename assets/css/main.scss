@@ -108,7 +108,7 @@
   padding: 5px 0px 5px 0px;
 }
 
-.session div p {
+.session p {
   height: 30px;
 }
 
@@ -121,6 +121,7 @@
 .schedule-logo {
   margin: auto;
   text-align: center;
+  width: 100%;
 }
 
 @media only screen and (max-width: 950px) {
@@ -130,11 +131,18 @@
 
   .session {
     padding: 0px 0px 30px 0px;
+    width: 100%;
+    min-width: auto;
   }
 
   .session div {
     height: auto;
-    padding: 5px 0px 5px 0px;
+    padding: 10px 0px 10px 0px;
+  }
+
+  .session p {
+    padding: 0px;
+    height: auto;
   }
 }
 
