@@ -48,6 +48,15 @@
   website: https://nelsonlab.okstate.edu/
   bio: "<b>Toby L. Nelson</b> is Associate Professor of Chemistry in the Department of Chemistry at Oklahoma State University where his research focuses on design and synthesis of organic semiconductors, sensors, bioinspired materials and green chemistry. He holds a B.S. in Chemistry from Francis Marion University and Ph.D. in Organic Chemistry from University of South Carolina. Dr. Nelson was also a UNCF-Merck Postdoctoral Fellow in organic materials at Carnegie Mellon University under advisement of Professor Richard D. McCullough (now Vice Provost for Research at Harvard University)."
 
+- name: Eranda Nikolla
+  img: /assets/img/speakers/eranda_nikolla.jpg
+  title: Professor
+  dept: Dept. of Chemical Engineering and Materials Science
+  school: Wayne State University
+  detail-page:
+  website: http://nikollalab.eng.wayne.edu
+  bio:
+
 - name: Teri W. Odom
   img: /assets/img/speakers/teri_odom.jpg
   title: Chair and Professor
