@@ -9,7 +9,7 @@ google-ID: ''
 menu:
 - {name: 'Home', path: ''}
 - {name: 'About Us', path: '/pages/about-us.html'}
-- {name: 'Speakers', path: '/pages/speakers.html'}
+- {name: 'Schedule & Speakers', path: '/pages/speakers.html'}
 - {name: 'Sponsors', path: '/pages/sponsors.html'}
 # - {name: 'nGSSPC', path: '/pages/ngsspc.html'}
 # - {name: 'Travel Grants', path: '/pages/travel-grants.html'}

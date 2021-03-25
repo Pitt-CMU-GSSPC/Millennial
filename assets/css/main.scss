@@ -82,6 +82,66 @@
   }
 }
 
+/* Schedule Styling */
+
+.section-title {
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.session-container {
+  display: flex;
+  justify-content: space-between;
+  align-content: space-between;
+  flex-flow: row wrap;
+  width: 100%;
+}
+
+.session {
+  width: 47%;
+  min-width: 450px;
+}
+
+.session div {
+  border: solid 0px black;
+  padding: 5px 0px 5px 0px;
+}
+
+.session div p {
+  height: 30px;
+}
+
+.schedule-logo img {
+  width: 35%;
+  min-width: 250px;
+  height: auto;
+}
+
+.schedule-logo {
+  margin: auto;
+  text-align: center;
+}
+
+@media only screen and (max-width: 950px) {
+  .session-container {
+    justify-content: center;
+  }
+
+  .session {
+    padding: 0px 0px 30px 0px;
+  }
+
+  .session div {
+    height: auto;
+    padding: 5px 0px 5px 0px;
+  }
+}
+
+.notbold {
+  font-weight: normal;
+}
+
 /* Speaker Styling */
 
 .speaker-container {
@@ -94,7 +154,7 @@
 
 .speaker {
   background-color: white;
-  width: 30%;
+  width: 50%;
   min-width: 350px;
   height: 600px;
   text-align: center;
